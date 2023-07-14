@@ -11,7 +11,7 @@ This project demonstrates two separate concepts:
 
 - How to show a different record in a view. 
 
-- How to pass a URL's information to a sub-view. This code is tested as being reliable in its currently use-case but may break if used in unintended ways. This is an alternative to using standard SwiftUI .enviroment and .onChange modifiers.
+- How to pass a URL's information to a sub-view. This code is tested as being reliable in its current use-case but may break if used in unintended ways. This is an alternative to using standard SwiftUI .enviroment and .onChange modifiers.
 
 
 ## How to use this example app.
